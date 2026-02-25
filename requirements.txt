@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+streamlit
+albumentations
+opencv-python-headless
+pillow
+numpy
